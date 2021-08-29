@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages for Srinjoy
+# Srinjoy Dutta's first CS193 Lab
+- Smaller class size
+- Helpful teachers
+- Interesting class
+- Useful content
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -7,9 +11,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-# Header 1: Srinjoy
-## Header 2: Dutta
-### Header 3: CS193
+# Header 1: 
+## Header 2: 
+### Header 3: 
 **myText** and _myText_ and `myCode` text  
 - List item 1
 - List item 2
@@ -17,9 +21,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1: Srinjoy
-## Header 2: Dutta
-### Header 3: CS193
+# Header 1: 
+## Header 2: 
+### Header 3: 
 
 - Bulleted
 - List
